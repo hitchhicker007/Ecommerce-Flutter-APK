@@ -1,10 +1,10 @@
 # Ecommerce - Flutter Mobile APK
 
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/hitchhicker007/InChat/issues) [![GitHub stars](https://img.shields.io/github/stars/hitchhicker007/InChat.svg?logo=github)](https://github.com/hitchhicker007/InChat/stargazers) [![GitHub forks](https://img.shields.io/github/forks/hitchhicker007/InChat.svg?logo=github&color=yellow)](https://github.com/hitchhicker007/InChat/network) [![GitHub top language](https://img.shields.io/github/languages/top/hitchhicker007/chodvadiyaFamily?color=blue&logo=java)](https://github.com/hitchhicker007/InChat)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/hitchhicker007/Ecommerce-Flutter-APK/issues) [![GitHub stars](https://img.shields.io/github/stars/hitchhicker007/Ecommerce-Flutter-APK.svg?logo=github)](https://github.com/hitchhicker007/Ecommerce-Flutter-APK/stargazers) [![GitHub forks](https://img.shields.io/github/forks/hitchhicker007/Ecommerce-Flutter-APK.svg?logo=github&color=yellow)](https://github.com/hitchhicker007/Ecommerce-Flutter-APK/network) [![GitHub top language](https://img.shields.io/github/languages/top/hitchhicker007/flutter_dev?color=blue&logo=dart)](https://github.com/hitchhicker007/Ecommerce-Flutter-APK)
 
 ## Tech Stack
 
-- JAVA, Android-Studio
+- DART, Flutter
 
 ## Screenshot of the Web App
 
