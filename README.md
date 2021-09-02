@@ -6,7 +6,7 @@
 
 - DART, Flutter
 
-## Screenshot of the Web App
+## Screenshot of the App
 
 ## LIGHT MODE
 
