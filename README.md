@@ -8,16 +8,22 @@
 
 ## Screenshot of the Web App
 
-<img src="ss/1.jpg" width="30%"><img src="ss/2.jpg" width="30%">
-<img src="ss/3.jpg" width="30%"><img src="ss/4.jpg" width="30%">
-<img src="ss/5.jpg" width="30%"><img src="ss/6.jpg" width="30%">
-<img src="ss/7.jpg" width="30%"><img src="ss/8.jpg" width="30%">
-<img src="ss/9.jpg" width="30%">
+## LIGHT MODE
+
+<img src="ss/1-w.jpg" width="30%"><img src="ss/2-w.jpg" width="30%">
+<img src="ss/3-w.jpg" width="30%"><img src="ss/4.jpg" width="30%">
+<img src="ss/5-w.jpg" width="30%"><img src="ss/6-w.jpg" width="30%">
+
+## DARK MODE
+
+<img src="ss/1-b.jpg" width="30%"><img src="ss/2-b.jpg" width="30%">
+<img src="ss/3-b.jpg" width="30%"><img src="ss/4-b.jpg" width="30%">
+<img src="ss/5-b.jpg" width="30%"><img src="ss/6-b.jpg" width="30%">
 
 
 ## Getting Started
 
-- install inchat.apk in your android device
+- install app-release.apk in your android device
 
 ## Project Admin
 
