@@ -11,7 +11,7 @@
 ## LIGHT MODE
 
 <img src="ss/1-w.jpg" width="30%"><img src="ss/2-w.jpg" width="30%">
-<img src="ss/3-w.jpg" width="30%"><img src="ss/4.jpg" width="30%">
+<img src="ss/3-w.jpg" width="30%"><img src="ss/4-w.jpg" width="30%">
 <img src="ss/5-w.jpg" width="30%"><img src="ss/6-w.jpg" width="30%">
 
 ## DARK MODE
